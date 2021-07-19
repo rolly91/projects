@@ -1,0 +1,10 @@
+body
+{
+    background:rgb(110, 43, 43);
+     color:blue;
+}
+
+img{
+    border-top: green;
+    border-width: 10px;
+}
